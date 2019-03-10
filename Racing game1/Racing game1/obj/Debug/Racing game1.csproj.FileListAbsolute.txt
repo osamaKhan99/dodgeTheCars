@@ -1,0 +1,9 @@
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\bin\Debug\Racing game1.exe.config
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\bin\Debug\Racing game1.exe
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\bin\Debug\Racing game1.pdb
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing_game1.Form1.resources
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing_game1.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing game1.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing game1.exe
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing game1.pdb
+F:\Visual Studio 2013\Projects\Racing game1\Racing game1\obj\Debug\Racing game1.csprojResolveAssemblyReference.cache
